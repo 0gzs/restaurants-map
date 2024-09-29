@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Restaurant Name",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "tags": ["Italian", "Pizza"],
+    "signatureDish": "Margherita Pizza",
+    "distanceFromHotel": 0.5
+  }
+]

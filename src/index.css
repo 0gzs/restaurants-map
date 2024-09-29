@@ -1,0 +1,35 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+#root {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+html,
+body {
+	overflow: hidden;
+	height: 100%;
+}
+
+.App {
+	height: 100%;
+}
+
+#mapContainer {
+	position: relative;
+	height: 100%;
+	width: 100%;
+}
+
+.reset {
+	position: absolute;
+	right: 20px;
+	bottom: 30px;
+}
